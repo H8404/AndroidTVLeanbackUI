@@ -1,3 +1,3 @@
 # AndroidTVLeanbackUI
 
-Powerpoint on juurkansiossa
+Powerpoint on juurikansiossa
